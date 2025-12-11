@@ -1,6 +1,1 @@
-/home/coder/student-backend/src/main/java/com/kevin/student/model/Student.java
-/home/coder/student-backend/src/main/java/com/kevin/student/controller/StudentController.java
-/home/coder/student-backend/src/main/java/com/kevin/student/controller/HelloController.java
-/home/coder/student-backend/src/main/java/com/kevin/student/repository/StudentRepository.java
-/home/coder/student-backend/src/main/java/com/kevin/student/StudentApplication.java
-/home/coder/student-backend/src/main/java/com/kevin/student/config/CorsConfig.java
+/home/coder/student-backend/src/main/java/com/example/demo/config/CorsConfig.java
