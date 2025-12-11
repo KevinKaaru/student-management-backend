@@ -1,0 +1,7 @@
+com/kevin/student/config/CorsConfig.class
+com/kevin/student/repository/StudentRepository.class
+com/kevin/student/model/Student.class
+com/kevin/student/controller/HelloController.class
+com/kevin/student/StudentApplication.class
+com/kevin/student/controller/StudentController.class
+com/kevin/student/config/CorsConfig$1.class
